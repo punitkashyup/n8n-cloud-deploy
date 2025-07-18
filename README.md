@@ -144,7 +144,7 @@ Select environment (1 for dev, 2 for prod): 1
 ```
 Enter your domain name (e.g., example.com): yourdomain.com
 ```
-**What to enter:** Your domain name (e.g., `techdome.ai`, `mycompany.com`)
+**What to enter:** Your domain name (e.g., `mycompany.com`)
 
 ### 4. **Subdomain Configuration**
 ```
